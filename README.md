@@ -1,6 +1,6 @@
 # Homework 2
 
-Arkadaşlar selamlar! Acı çekeceğiniz ama bolca öğreneceğiniz haftanın ödevi için sizlerden: 2 adet ekran oluşturup (View controller ve view) bunlar arasında bilgi göndermenizi istiyoruz. Bu bilgileri:
+Viewlar arasında bilgi aktarımı metodlarının çalışıldığı bir ödev.
 
 1-) Notification center
 
@@ -8,4 +8,4 @@ Arkadaşlar selamlar! Acı çekeceğiniz ama bolca öğreneceğiniz haftanın ö
 
 3-) Closure
 
-metotlarının üçünü de kullanarak göndermenizi rica ediyoruz. Ödevin deadline'ı 25.12.2021 Cumartesi günü saat 17:00'a kadardır. Her türlü sorunuz için asistanlara ulaşmaktan çekinmeyin. Herkesin şimdiden emeğine sağlık, kolay gelsin.
+<img width="805" alt="Screen Shot 2021-12-25 at 15 23 41" src="https://user-images.githubusercontent.com/93740120/147385757-fe0956d3-cef1-4147-b82d-5698407eb2f1.png">
